@@ -1,1 +1,2 @@
 this is some content to make merge conflict
+different text to make conflic
